@@ -1,0 +1,15 @@
+programa {
+  funcao inicio() {
+    inteiro ano_nasc, ano_atual = 2025
+
+    escreva ("Digite o ano em que nasceu:")
+    leia(ano_nasc)
+
+    limpa()
+    escreva("Sua idade em anos é: ", ano_atual - ano_nasc, ".\n")
+    escreva("Sua idade em meses é: ", (ano_atual - ano_nasc) * 12, ".\n")
+    escreva("Sua idade em semanas é: ", (ano_atual - ano_nasc)*365 / 7, ".\n")
+    escreva("Sua idade em dias é: ", (ano_atual - ano_nasc) * 365, ".\n")
+
+  }
+}
