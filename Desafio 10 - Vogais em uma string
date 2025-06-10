@@ -1,0 +1,32 @@
+programa {
+  inclua biblioteca Texto --> t
+
+  funcao inteiro quantLetraX(cadeia palavra, caracter x){
+    inteiro i, tamanho, quantidade = 0
+
+    palavra = t.caixa_baixa(palavra)
+    tamanho = t.numero_caracteres(palavra)
+
+    para (i = 0; i < tamanho; i++){
+      se(t.obter_caracter(palavra,i) == x)
+      quantidade ++
+    }
+    retorne quantidade
+  }
+   
+  funcao inicio(){
+
+    cadeia string
+    caracter letras[] = {'a', 'e', 'i', 'o', 'u'}
+    inteiro i 
+
+    escreva("Digite uma frase:")
+    leia(string)
+
+    para(i = 0; i <= 10; i++){
+      escreva("\nQuantidade de vogais " + letras[i] + " : " + quantLetraX(string, letras[i]))
+    }
+
+    }
+  }
+
