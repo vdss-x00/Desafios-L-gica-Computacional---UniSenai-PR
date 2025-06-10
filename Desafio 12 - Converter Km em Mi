@@ -1,0 +1,16 @@
+programa {
+  funcao inicio() {
+    real km, mi, conversao
+    mi = 0.621371
+
+    escreva ("Digite um número:")
+    leia (km)
+
+    conversao = km * mi
+
+    escreva (km," quilômetros", " é igual a ", conversao, " milhas.")
+
+
+  
+  }
+}
