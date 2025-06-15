@@ -1,0 +1,26 @@
+Incluir biblioteca Calendário (c)
+INICIO
+
+var <- idade, ano_nascimento, ano_atual = ano atual(c), mes_nascimento, mes_atual = mês atual(c)
+
+Escreva "Digite o ano em que você nasceu:"
+Leia ano_nascimento
+
+Escreva "Digite o mês em que nasceu:"
+Leia mes_nascimento
+
+idade = ano_atual - ano_nascimento
+
+Se (mes_atual <= mes_nascimento), então:
+   Limpa console
+   Escreva "Você tem" idade "anos."
+   Escreva "Você já fez aniversário esse ano! Parabéns!"
+Senão:
+   Limpa console
+   Escreva "Você tem" idade - 1 "anos."
+   Escreva "Você ainda não fez aniversário esse ano!"
+
+
+FIM
+   
+  
