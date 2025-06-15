@@ -1,0 +1,28 @@
+INICIO
+var <- numero
+
+Escreva "Digite um número:"
+Leia "numero"
+
+Se (numero > 0), então:
+   Escreva "O número é positivo!"
+Senão: 
+   Escreva "O número é negativo!"
+Se (numero = 0), então:
+   Escreva "O número é zero!"
+
+
+Se (numero % 1 = 0), então:
+   Escreva "O número é inteiro!"
+Senão:
+   Escreva "O número é decimal!"
+
+
+Se (numero % 2 = 0), então:
+   Escreva "O número é par!"
+Senão:
+   Escreva "O número é ímpar!"
+
+
+FIM
+
