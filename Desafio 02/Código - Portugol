@@ -1,0 +1,25 @@
+programa {
+  inclua biblioteca Calendario --> c
+  funcao inicio() {
+    inteiro ano_atual = c.ano_atual(), ano_nasc, idade, mes_nasc, mes_atual = c.mes_atual()
+
+    escreva("Digite seu ano de nascimento:")
+    leia(ano_nasc)
+
+    escreva("Digite o mês em que nasceu:")
+    leia(mes_nasc)
+
+    idade = ano_atual - ano_nasc 
+    se(mes_nasc <= mes_atual){
+      limpa()
+      escreva("Você tem ", idade, " anos.\n")
+      escreva("Você já fez aniversário esse ano! Parabéns!")
+    }
+    senao{
+      limpa()
+      escreva("Você tem ", idade - 1, " anos.\n")
+      escreva("Você ainda não fez aniversário esse ano!")
+    }
+
+  }
+}
