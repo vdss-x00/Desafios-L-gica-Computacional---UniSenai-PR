@@ -1,0 +1,20 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir um número;
+
+- Leia;
+
+- Verifique se o número fornecido é maior que zero.
+  Se for, enquanto a variável VALOR, que é igual a um, for menor ou igual ao número fornecido,
+  verifique se o resultado da operação de módulo NUMERO % VALOR é igual a zero. 
+  Se o número fornecido não for maior que zero, a operação não dará certo;
+
+- Se o resultado da operação de módulo anterior for zero, o valor das variáveis DIVISORES, que é igual a zero,
+  e o valor da variável VALOR irão aumentar. Caso contrário, a operação não dará certo;
+
+- Apos realizar as duas etapas anteriores, se o valor da variável DIVISORES for igual a dois,
+  o número fornecido pelo usuário resultará em um número primo. Caso contrário, não será um número primo;
+
+- Mostre o resultado final ao usuário;
+
+FIM DO ALGORITMO
