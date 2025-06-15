@@ -1,0 +1,18 @@
+INICIO
+
+var <- tab, c, n
+
+Escreva "Digite um número:"
+Leia n
+
+Para cada vez que a variável c for:
+    igual a 1;
+    menor ou igual a 10;
+    o valor de c aumentará;
+
+tab = c . n
+
+Escreva n "X" c "=" tab
+
+
+FIM
