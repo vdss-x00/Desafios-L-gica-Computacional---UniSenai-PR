@@ -1,0 +1,18 @@
+INICIO
+
+var <- numero, valor = 1, divisores = 0
+
+Escreva "Digite um número:"
+Leia numero
+
+Se (numero > 0) enquanto (valor <= numero) e se (numero % valor = 0), então:
+     O valor de divisores aumentará;
+     O valor de valor aumentará;
+
+Se (divisores = 2), então:
+     Escreva "O número" numero "é primo."
+Senão:
+     Escreva "O número" numero "não é primo."
+
+
+FIM
