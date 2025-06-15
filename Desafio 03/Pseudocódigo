@@ -1,0 +1,18 @@
+INICIO
+
+var <- numero1, numero2, numero3, media
+
+Escreva "Digite o primeiro número:"
+Leia numero1
+
+Escreva "Digite o segundo número:"
+Leia numero2
+
+Escreva "Digite o terceiro número:"
+Leia numero3
+
+media = (numero1 + numero2 + numero3)/ 3
+
+Escreva  "A média entre os três números é:" media
+
+FIM
