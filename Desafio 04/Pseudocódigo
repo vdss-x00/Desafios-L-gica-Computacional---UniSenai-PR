@@ -1,0 +1,10 @@
+INICIO
+
+var <- numero
+
+Escreva "Digite um número:"
+Leia numero
+
+Escreva "O número que você escreveu foi:" numero
+
+FIM
