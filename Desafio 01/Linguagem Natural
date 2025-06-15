@@ -2,7 +2,7 @@ INÍCIO DO ALGORITMO
 
 - Peça para o usuário inserir um número;
 
-- Leia esse número;
+- Leia;
 
 - Verifique se esse número é positivo ou negativo. 
   Se for maior que zero, é positivo. Se for menor que zero, é negativo. Se não for nenhum dos dois, é zero;
