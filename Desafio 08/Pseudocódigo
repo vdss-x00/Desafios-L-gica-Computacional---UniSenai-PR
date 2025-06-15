@@ -1,0 +1,17 @@
+INICIO
+
+var <- fatorial, numero, resultado = 1
+
+Escreva "Digite um número:"
+Leia numero
+
+Para toda vez que:
+    fatorial for igual a 1;
+    fatorial for menor ou igual a numero;
+    o valor de fatorial aumentará;
+
+resultado = resultado . fatorial
+
+Escreva "O valor do fatorial de" numero "é igual a" resultado
+
+FIM
