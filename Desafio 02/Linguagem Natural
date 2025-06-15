@@ -1,0 +1,18 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir seu ano de nascimento;
+
+- Leia;
+
+- Peça para o usuário inserir o mês em que nasceu;
+
+- Leia;
+
+- Para calcular a idade do usuário, subtraia o ano atual pelo ano de nascimento fornecido;
+
+- Verifique se o mês atual é menor ou igual ao mês atual.
+  Se for menor ou igual, o usuário já fez aniversário esse ano. Caso contrário, subtraia a idade por 1;
+
+- Ao realizar as duas últimas etapas, mostre a idade calculada para o usuário;
+
+FIM DO ALGORITMO
