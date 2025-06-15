@@ -1,0 +1,19 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir o primeiro número;
+
+- Leia;
+
+- Peça para o usuário inserir o segundo número;
+
+- Leia;
+
+- Peça para o usuário inserir o terceiro número;
+
+- Leia;
+
+- Para calcular a média, basta somar os três números fornecidos e dividir o resultado por três;
+
+- Ao realizar a última etapa, forneca o resultado da operação ao usuário;
+
+FIM DO ALGORITMO
