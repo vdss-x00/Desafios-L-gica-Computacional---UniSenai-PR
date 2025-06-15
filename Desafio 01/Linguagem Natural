@@ -1,0 +1,18 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir um número;
+
+- Leia esse número;
+
+- Verifique se esse número é positivo ou negativo. 
+  Se for maior que zero, é positivo. Se for menor que zero, é negativo. Se não for nenhum dos dois, é zero;
+
+- Faça a operação de módulo entre o número dado pelo usuário e o número 1. 
+  Se o resultado for igual a zero, é um número inteiro. Caso contrário, é um número decimal;
+
+- Faça a operação de módulo entre o número dado pelo usuário e o número 2.
+  Se o resultado for igual a zero, é um número par. Caso contrário, é um número ímpar;
+
+- Ao realizar as três últimas etapas, mostre os resultados de cada etapa para o usuário;
+
+FIM DO ALGORITMO
