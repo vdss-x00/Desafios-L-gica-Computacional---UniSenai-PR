@@ -1,0 +1,17 @@
+programa {
+  funcao inicio() {
+    inteiro n, m
+
+    escreva ("Digite um número de três digitos:")
+    leia(n)
+
+    se(n > 0){
+      faca{
+        m = n % 10
+        escreva(m)
+        n/= 10
+      }enquanto(n!=0)
+      escreva ("\n")
+    }
+  }
+}
