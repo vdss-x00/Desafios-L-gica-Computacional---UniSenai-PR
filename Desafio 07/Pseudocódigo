@@ -1,0 +1,12 @@
+INICIO
+
+var <- c, conversão
+
+Escreva "Digite um valor em Celsius:"
+Leia c
+
+conversão = (c . 9/5) + 32
+
+Escreva c "graus Celsius equivale a" conversão "graus Fahrenheit"
+
+FIM
