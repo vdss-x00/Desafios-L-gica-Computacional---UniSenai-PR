@@ -1,0 +1,25 @@
+INICIO
+
+var <- nota1, nota2, media
+
+Escreva "Digite a primeira nota:"
+Leia nota1
+
+Escreva "Digite a segunda nota:"
+Leia nota2
+
+media = (nota1 + nota2)/2
+
+Se (media < 7), então:
+    Limpa console
+    Escreva "Se esse aluno tirou" nota1 e nota2
+    Escreva "Significa que esse aluno tirou" media "na sua matéria!"
+    Escreva "Está reprovado!"
+Senão:
+    Limpa console
+    Escreva "Se esse aluno tirou" nota1 e nota2
+    Escreva "Significa que esse aluno tirou" media "na sua matéria!"
+    Escreva "Está aprovado!"
+
+
+FIM
