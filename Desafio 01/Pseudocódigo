@@ -2,7 +2,7 @@ INICIO
 var <- numero
 
 Escreva "Digite um número:"
-Leia "numero"
+Leia numero
 
 Se (numero > 0), então:
    Escreva "O número é positivo!"
