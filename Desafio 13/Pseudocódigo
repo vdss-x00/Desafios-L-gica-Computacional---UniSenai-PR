@@ -1,0 +1,14 @@
+INICIO
+
+var <- valor, reajuste
+
+Escreva "Digite um número:"
+Leia valor
+
+reajuste = valor . 1,05
+
+Limpa console
+Escreva "O valor que você inseriu sofreu um reajuste de 5%!"
+Escreva "Agora, subiu para" reajuste
+
+FIM
