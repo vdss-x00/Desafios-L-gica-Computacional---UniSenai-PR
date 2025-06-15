@@ -1,0 +1,13 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir o número de três dígitos que será usado como a variável n;
+
+- Leia;
+
+- Verifique se o número fornecido é maior que zero.
+  Se for, faça a operação de módulo 'n % 10'. O resultado dessa operação é a variável m.
+  Se não for, a operação não dará certo;
+
+- Ao realizar a última etapa, forneça o resultado da operação para o usuário;
+
+FIM DO ALGORITMO
