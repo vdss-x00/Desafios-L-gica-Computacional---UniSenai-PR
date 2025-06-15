@@ -1,0 +1,15 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário digitar um número;
+
+- Leia;
+
+- Toda vez que o valor da variável FATORIAL for igual a 1 e menor ou igual ao número fornecido pelo usuário,
+  o valor da variável FATORIAL vai aumentar;
+
+- Para calcular o fatorial do número fornecido, multiplique a variável RESULTADO, que é igual a 1, pela 
+  variável FATORIAL;
+
+- Ao realizar as duas últimas etapas, forneça o resultado da operação ao usuário;
+
+FIM DO ALGORITMO
