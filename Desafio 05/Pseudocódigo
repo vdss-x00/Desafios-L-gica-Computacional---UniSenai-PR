@@ -1,0 +1,17 @@
+INICIO
+
+var <- n, m
+
+Escreva "Digite um número de três dígitos:"
+Leia n
+
+Se (n > 0), então:
+Faça: m = n % 10
+      Escreva m
+      n/=10
+
+Enquanto (n!=0):
+      Escreva "\n"
+
+
+FIM
