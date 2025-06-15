@@ -1,0 +1,18 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir a primeira nota;
+
+- Leia;
+
+- Peça para o usuário inserir a segunda nota;
+
+- Leia;
+
+- Para calcular a média, basta comar as duas notas fornecidas pelo usuário e dividir o resultado por dois;
+
+- Verifique se o valor da operação do cálculo da média é menor do que 7.
+  Se for menor que 7, o aluno está reprovado. Caso contrário, o aluno está aprovado.
+
+- Ao realizar as duas últimas etapas, forneça o resultado da operação e diga se o aluno está aprovado ou reprovado;
+
+FIM DO ALGORITMO
