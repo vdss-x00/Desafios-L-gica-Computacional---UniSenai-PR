@@ -1,0 +1,14 @@
+INICIO
+
+var <- ano_nascimento, ano_atual = 2025
+
+Escreva "Digite o ano em que nasceu:"
+Leia ano_nascimento
+
+Limpa console
+Escreva "Sua idade em anos é" ano_atual - ano_nascimento
+Escreva "Sua idade em meses é" (ano_atual - ano_nascimento) . 12
+Escreva "Sua idade em semanas é" (ano_atual - ano_nascimento) . 365/ 7
+Escreva "Sua idade em dias é" (ano_atual - ano_nascimento) . 365
+
+FIM
