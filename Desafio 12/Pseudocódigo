@@ -1,0 +1,13 @@
+INICIO
+
+var <- km, mi, conversão
+mi = 0,621371
+
+Escreva "Insira um valor em quilômetros:"
+Leia km
+
+conversão = km . mi
+
+Escreva km "quiloômetros é equivalente a" conversão "milhas."
+
+FIM
