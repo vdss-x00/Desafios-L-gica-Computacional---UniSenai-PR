@@ -1,0 +1,13 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir um número;
+
+- Leia;
+
+- Para toda vez que a variável C for igual a um e menor ou igual a dez, seu valor vai aumentar;
+
+- Para calcular o valor da variável TAB, multiplique a variável C pelo número fornecido pelo usuário;
+
+- Forneça os resultados de cada operação da variável TAB, em ordem crescente, para o usuário;
+
+FIM DO ALGORITMO
