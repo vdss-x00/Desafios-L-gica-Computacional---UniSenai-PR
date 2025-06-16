@@ -1,0 +1,33 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir sua altura;
+
+- Leia;
+
+- Peça para o usuário inserir seu peso;
+
+- Leia;
+
+- Para calcular o IMC do usuário, divida o peso pela altura elevada ao quadrado;
+
+- Verifique se o IMC é menor que 18,5.
+  Se for, o usuário está abaixo do peso. Caso contrário, prossiga para a próxima etapa;
+
+- Verifique se o IMC está entre 18,6 e 24,9.
+  Se estiver, o usuário está no peso ideal. Caso contrário, prossiga para a próxima etapa;
+
+- Verifique se o IMC está entre 25 e 29,9.
+  Se estiver, o usuário está levemente acima do peso. Caso contrário, prossiga para a próxima etapa;
+
+- Verifique se o IMC está entre 30 e 34,9.
+  Se estiver, o usuário tem obesidade grau I. Caso contrário, prossiga para a próxima etapa;
+
+- Verifique se o IMC está entre 35 e 39,9.
+  Se estiver, o usuário tem obesidade grau II - severa. Caso contrário, prossiga para a próxima etapa;
+
+- Verifique se o IMC é miaor ou igual a 40.
+  Se for, o usuário tem obesidade grau III - mórbida;
+
+- Após calcular o IMC e passar pelas etapas de verificação anteriores, mostre o resultado ao usuário;
+
+FIM DO ALGORITMO
