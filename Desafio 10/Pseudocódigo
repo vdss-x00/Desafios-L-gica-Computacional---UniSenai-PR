@@ -1,0 +1,36 @@
+Incluir biblioteca Texto (t)
+INICIO - Função Inteiro 
+
+quantLetraX(cadeia palavra, caracter x)
+var <- i, tamanho, caracter, quantidade = 0
+palavra = t-> caixa_baixa(palavra)
+tamanho = t->numero_caracteres(palavra)
+
+Para toda vez que:
+   i for igual a 0
+   i for menor que tamanho
+   o valor de i aumentará
+
+Se (t->obter_caracter(palavra,i) for igual a x, então:
+   o valor de quantidade aumentará
+
+FIM - Função Inteiro
+
+
+INICIO - Função Início
+
+var <- string, letras[], i
+letras[] = {'a','e','i','o','u'}
+
+Escreva "Digite uma palavra:"
+Leia string
+
+Para toda vez que:
+   i for igual a 0
+   i for menor ou igual a 10
+   o valor de i aumentará
+
+Escreva "Quantidade de vogais" + letras[i] + ":" + quantLetraX (string,letras[i])
+
+
+FIM - Função Início
