@@ -1,0 +1,17 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir seu ano de nascimento;
+
+- Leia;
+
+- Para calcular a idade do usuário em anos, subtraia do ano atual o ano de nascimento fornecido;
+
+- Para calcular a idade do usuário em meses, realize a operação anterior e multiplique o resultado por 12;
+
+- Para calcular a idade do usuário em semanas, calcule a idade em anos, multiplique por 365 e divida o resultado por 7;
+
+- Para calcular a idade do usuário em dias, calcule a idade em anos e multiplique por 365;
+
+- Ao realizar as quatro etapas anteriores, mostre o resultado de todas elas ao usuário;
+
+FIM DO ALGORITMO
