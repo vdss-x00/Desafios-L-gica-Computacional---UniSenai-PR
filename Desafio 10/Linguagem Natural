@@ -1,0 +1,21 @@
+Preparação para o Início do Algoritmo
+
+- Para toda vez que a variável I for igual a zero e menor que a variável TAMANHO, o valor de I aumentará;
+
+- Se a função da biblioteca Texto, obter_caracter, for igual a variável X,
+  o valor da variável QUANTIDADE aumentará;
+
+Fim da preparação
+
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário digitar uma string;
+
+- Leia;
+
+- Para toda vez que a variável I for igual a zero e menor ou igual a dez, o valor de I aumentará;
+
+- Usando a variável do tipo vetor 'letras[i]', que também contém as vogais 'a','e','i','o' e 'u',
+  mostre a quantidade de cada vogal na string digitada pelo usuário;
+
+FIM DO ALGORITMO
