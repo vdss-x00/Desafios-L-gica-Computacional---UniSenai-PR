@@ -1,0 +1,11 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário digitar um valor em quiômetros;
+
+- Leia;
+
+- Para converter esse valor em milhas, basta multiplicar o valor fornecido por 0,621371;
+
+- Mostre o valor da operação anterior para o usuário;
+
+FIM DO ALGORITMO
