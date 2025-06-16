@@ -1,0 +1,12 @@
+INÍCIO DO ALGORITMO
+
+- Peça para o usuário inserir um número;
+
+- Leia;
+
+- O número fornecido sofrerá um reajuste de 5%. Para calcular esse reajuste, multiplique
+  o número fornecido por 1,05;
+
+- Mostre o valor reajustado para o usuário;
+
+FIM DO ALGORITMO
